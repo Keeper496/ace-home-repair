@@ -85,3 +85,7 @@ body {
 .carousel-control-prev-icon, .carousel-control-next-icon {
     background-color: #ccc !important;
 }
+
+.img-small {
+height:30px;
+}
