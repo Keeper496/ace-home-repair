@@ -83,7 +83,7 @@ body {
 }
 
 .carousel-control-prev-icon, .carousel-control-next-icon {
-    background-color: #ccc !important;
+    background-color: #000 !important;
 }
 
 .img-small {
